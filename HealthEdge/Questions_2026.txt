@@ -1,0 +1,32 @@
+
+Health Edge:
+
+1) What is OOP ?
+
+2) Is java 100% OOP, If Yes why ?
+
+3) Diff bewteen interface vs Abstract class?
+
+4) Can we create a object for abstract class ?
+
+5) Is absttract class will have constructor ?
+
+6) What are access modifier available in java ? What are the reole of which in inheretence or method overriding ?
+
+7) IN java 8, what  are special methods introdcues in interface ?
+
+8) What is the access modifier of the variable defined inside the interface ?
+
+9) What is your approach when a jira ticket(bug/escalation) is assigned to you ?
+
+10) What are the interfaces available in Collection?
+
+11) Write a program to identify the big polindrome .
+
+12) Write a program to print the number from to 1-10, without using the loops?
+
+13) maven commondas
+
+14) Is it possible to run spring boot with other than the embeeded server, if yes, how we can achieved it?
+
+15) What is method hiding ?
