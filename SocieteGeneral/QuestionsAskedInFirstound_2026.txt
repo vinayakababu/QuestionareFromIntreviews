@@ -1,0 +1,36 @@
+
+
+
+Société Générale Interview questions:
+-------------------------------------
+1) Write a program to fina the first non repeating char in a givne string .
+
+2) What are the Java8 and later vesion features, whcih and all are you have used in your project.
+
+3) What is the feature introduce in Java21 and what is the benefit of that can you expalin? Virtual Trheads
+
+4) Desing the Endpoints for the below table and you are the producer of the API and also document the API in Swagger.
+
+   User Table                                 Transaction Table
+   |-----------------|                       |----------------------------|
+   | ID	 |	UserName |						 |	ID	| User		| Amount  |
+   |-----------------|                       |----------------------------|
+   |     |           |						 |      |           |		  |
+   | 1   | user1     |                       |  1   | 1         |  100    |
+   | 2   | user2     |                       |  2   | 2         |  200    |
+   | 3   | user3     |                       |  3   | 2         |  200    |
+   | 4   | user4     |                       |  4   | 3         |  350    |
+   |-----------------|                       |----------------------------|
+   
+ 5) Using record, could you please get the user who has the more amount ?
+ 
+ 6)What is future and what is the use of future. Diff between future vs ComaptibleFuture.
+ 
+ 7) What is the use of defaut constructor.
+ 
+ 9) Asked abotut the HTTP methods used in the API designed
+ 
+ 10) Error handling for the designed API, importance of the error codes (201, 200, 204, 401, 404, 500)
+
+  
+ 
